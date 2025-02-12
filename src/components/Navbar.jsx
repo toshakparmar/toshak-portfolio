@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close } from "../assets";
-import MyResume from "../assets/docs/myresume.pdf";
+import MyResume from "../assets/docs/my_resume_latest.pdf";
 import { GrDocumentDownload } from "react-icons/gr";
 
 const Navbar = () => {
